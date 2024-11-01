@@ -164,3 +164,7 @@ Se realizaron pruebas de rendimiento ej JMeter. Con hasta 5000 usuarios.
 
 
 [LINK DE RENDER](https://parcial-mutant.onrender.com)
+
+## RESULTADOS DE TEST UNITARIOS
+
+![TestSumary.jpg](images%2FTestSumary.jpg)
