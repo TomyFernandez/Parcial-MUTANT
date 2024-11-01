@@ -160,3 +160,7 @@ Se realizaron pruebas de rendimiento ej JMeter. Con hasta 5000 usuarios.
 
 ![statsRequest.jpg](images%2FstatsRequest.jpg)
 
+## DEPLOY EN RENDER
+
+
+[lINK DE RENDER](https://parcial-mutant.onrender.com)
