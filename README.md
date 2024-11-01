@@ -163,4 +163,4 @@ Se realizaron pruebas de rendimiento ej JMeter. Con hasta 5000 usuarios.
 ## DEPLOY EN RENDER
 
 
-[lINK DE RENDER](https://parcial-mutant.onrender.com)
+[LINK DE RENDER](https://parcial-mutant.onrender.com)
